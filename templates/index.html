@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Real-Time Mask Detection</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white flex items-center justify-center min-h-screen">
+
+  <div class="max-w-2xl w-full p-6 rounded-xl shadow-xl bg-gray-800">
+    <h1 class="text-3xl font-bold mb-4 text-center">🎥 Deteksi Masker Real-Time</h1>
+
+    <div class="rounded-lg overflow-hidden border-4 border-gray-700">
+      <img src="{{ url_for('video') }}" id="videoStream" class="w-full">
+    </div>
+
+    <p class="text-center mt-4 text-green-400">🟢 Kamera aktif & deteksi berjalan...</p>
+  </div>
+
+</body>
+</html>
