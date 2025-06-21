@@ -1,15 +1,15 @@
 # 🛡️ Face Mask Detection using Computer Vision
 
-Proyek ini merupakan implementasi sistem deteksi masker pada wajah menggunakan model machine learning (CNN/U-Net) yang dibangun dengan TensorFlow/Keras. Aplikasi ini dapat dijalankan melalui antarmuka web sederhana yang menggunakan webcam untuk melakukan deteksi secara real-time.
+This project is an implementation of a face mask detection system using a machine learning model (CNN/U-Net) built with TensorFlow/Keras. The application can be run through a simple web interface that uses a webcam to perform real-time detection.
 
-## 📸 Fitur Utama
+## 📸 Key Features
 
-- Deteksi masker pada wajah secara real-time dari webcam
-- Antarmuka web modern dan responsif
-- Implementasi model machine learning berbasis `.h5`
-- Mudah dijalankan secara lokal
+-Real-time face mask detection from webcam input
+-Modern and responsive web interface
+-Machine learning model implementation in .h5 format
+-Easy to run locally
 
-## 🧠 Teknologi yang Digunakan
+## 🧠 Technologies Used
 
 - Python 3.x
 - TensorFlow / Keras
