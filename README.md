@@ -2,7 +2,7 @@
 This project is an implementation of a face mask detection system using a machine learning model (CNN/U-Net) built with TensorFlow/Keras. The application can be run through a simple web interface that uses a webcam to perform real-time detection.
 
 # 🚀 Features
-📸 Real-time face mask detection from webcam feed. \n
+📸 Real-time face mask detection from webcam feed. <br/>
 🖥️ Modern and responsive web interface.
 🤖 Deep learning model implemented in .h5 format (CNN/U-Net).
 💻 Easy to run locally.
