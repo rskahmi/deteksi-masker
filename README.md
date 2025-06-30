@@ -8,11 +8,11 @@ This project is an implementation of a face mask detection system using a machin
 💻 Easy to run locally.
 
 # 🧠 Technologies Used
-Backend: Flask (Python)
-Frontend: HTML, CSS, JavaScript
-Machine Learning: TensorFlow / Keras
-Computer Vision: OpenCV
-Webcam API: getUserMedia
+-Backend: Flask (Python)
+-Frontend: HTML, CSS, JavaScript
+-Machine Learning: TensorFlow / Keras
+-Computer Vision: OpenCV
+-Webcam API: getUserMedia
 
 # 🗂️ Dataset
 The dataset used to train the model is available at:
