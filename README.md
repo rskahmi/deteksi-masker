@@ -45,4 +45,6 @@ python app.py
 
 4. Open your browser and go to: `http://localhost:5000`
 
+---
+
 Made with 💧 by Risky Ahmi
