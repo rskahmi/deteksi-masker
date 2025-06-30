@@ -3,16 +3,16 @@ This project is an implementation of a face mask detection system using a machin
 
 # 🚀 Features
 📸 Real-time face mask detection from webcam feed. <br/>
-🖥️ Modern and responsive web interface.
-🤖 Deep learning model implemented in .h5 format (CNN/U-Net).
-💻 Easy to run locally.
+🖥️ Modern and responsive web interface. <br/>
+🤖 Deep learning model implemented in .h5 format (CNN/U-Net). <br/>
+💻 Easy to run locally. <br/>
 
 # 🧠 Technologies Used
--Backend: Flask (Python)
--Frontend: HTML, CSS, JavaScript
--Machine Learning: TensorFlow / Keras
--Computer Vision: OpenCV
--Webcam API: getUserMedia
+-Backend: Flask (Python) <br/>
+-Frontend: HTML, CSS, JavaScript <br/>
+-Machine Learning: TensorFlow / Keras <br/>
+-Computer Vision: OpenCV <br/>
+-Webcam API: getUserMedia <br/>
 
 # 🗂️ Dataset
 The dataset used to train the model is available at:
