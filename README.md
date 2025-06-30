@@ -28,5 +28,21 @@ deteksi-masker
 ├── static/
 └── README.md                 # Project README
 ```
+## ⚙️ Setup & Run
+1. Clone this repo:
+```bash
+git clone https://github.com/rskahmi/deteksi-masker.git
+cd deteksi-masker
+```
+2. Run train_model.py - you will get model with format .h5
+```bash
+python train_model.py
+```
+3. Run the app:
+```bash
+python app.py
+```
+
+4. Open your browser and go to: `http://localhost:5000`
 
 Made with 💧 by Risky Ahmi
